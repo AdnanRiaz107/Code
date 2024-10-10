@@ -1,0 +1,2 @@
+If you need any assiatsance to understand any part of the code, please feel free to contact me. 
+If you find our work interesting and use any of its part in your paper please cite this paper "Adnan Riaz, Muhammad Nabeel, Mehak Khan and Huma Jamil, “SBAG: A Hybrid Deep Learning Model for Large Scale Traffic Speed Prediction” International Journal of Advanced Computer Science and Applications(IJACSA), 11(1), 2020. http://dx.doi.org/10.14569/IJACSA.2020.0110135 "
